@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code-first", "code-first\co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbFirstConsoleApp", "DbFirstConsoleApp\DbFirstConsoleApp.csproj", "{42C16D72-291B-427E-8495-6D95BC395BBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity-data-model-1", "Entity-data-model-1\Entity-data-model-1.csproj", "{45FB11D4-426E-42BE-9108-D15946AEF2C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{42C16D72-291B-427E-8495-6D95BC395BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42C16D72-291B-427E-8495-6D95BC395BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42C16D72-291B-427E-8495-6D95BC395BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FB11D4-426E-42BE-9108-D15946AEF2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FB11D4-426E-42BE-9108-D15946AEF2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FB11D4-426E-42BE-9108-D15946AEF2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FB11D4-426E-42BE-9108-D15946AEF2C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
