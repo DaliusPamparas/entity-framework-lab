@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "code-first", "code-first\code-first.csproj", "{4DD480FA-BAB1-4CE3-8FB3-C9D6954CC994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbFirstConsoleApp", "DbFirstConsoleApp\DbFirstConsoleApp.csproj", "{42C16D72-291B-427E-8495-6D95BC395BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD480FA-BAB1-4CE3-8FB3-C9D6954CC994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD480FA-BAB1-4CE3-8FB3-C9D6954CC994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD480FA-BAB1-4CE3-8FB3-C9D6954CC994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD480FA-BAB1-4CE3-8FB3-C9D6954CC994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C16D72-291B-427E-8495-6D95BC395BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C16D72-291B-427E-8495-6D95BC395BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C16D72-291B-427E-8495-6D95BC395BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C16D72-291B-427E-8495-6D95BC395BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
