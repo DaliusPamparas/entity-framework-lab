@@ -10,12 +10,12 @@ namespace lab3_1
     {
         static void Main(string[] args)
         {
-            //helper static class
+            //helper static class 3,1
             Console.WriteLine("Skriv en tal(helper class): ");
             float f = Hjalp.StringToFloat(Console.ReadLine());
             Console.WriteLine(f * 12);
 
-            //extension class with this
+            //extension class with this 3,2
             Console.WriteLine("Skriv en tal(extention method): ");
             float f1 = Console.ReadLine().ToFloat();
             Console.WriteLine(f1 * 12);
